@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- soil -->
+  <path d="M26 158 Q100 144 174 158 L174 176 Q100 190 26 176 Z" fill="#6f4a32" stroke="#3b2a1f" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M36 164 Q60 160 82 164 M118 166 Q142 162 164 165" fill="none" stroke="#8a5f42" stroke-width="4" stroke-linecap="round" opacity=".8"/>
+
+  <!-- stem -->
+  <path d="M100 160 V88" fill="none" stroke="#2f5d1f" stroke-width="8" stroke-linecap="round"/>
+
+  <!-- left leaf -->
+  <path d="M100 132 C72 132 52 112 52 80 C82 80 100 102 100 132 Z" fill="#62a63a" stroke="#2f5d1f" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M58 88 C72 100 84 114 92 128" fill="none" stroke="#3f7d2a" stroke-width="4" stroke-linecap="round" opacity=".85"/>
+
+  <!-- right leaf -->
+  <path d="M100 116 C126 116 144 98 144 68 C118 68 100 88 100 116 Z" fill="#8cc152" stroke="#2f5d1f" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M106 110 C118 98 130 84 138 74" fill="none" stroke="#3f7d2a" stroke-width="4" stroke-linecap="round" opacity=".85"/>
+
+  <!-- seed shell at the base -->
+  <path d="M78 158 C78 150 86 146 92 150 C96 153 94 160 86 162 C80 163 78 161 78 158 Z" fill="#b07a45" stroke="#6b4220" stroke-width="4" stroke-linejoin="round"/>
+
+  <!-- highlight -->
+  <path d="M78 108 C70 100 64 92 62 86" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" opacity=".5"/>
+  <path d="M116 108 C124 100 130 90 133 84" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" opacity=".45"/>
+</svg>

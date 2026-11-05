@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- wooden window frame -->
+  <rect x="26" y="12" width="148" height="132" rx="5" fill="#d0a06a" stroke="#6b4220" stroke-width="6"/>
+  <!-- glass -->
+  <rect x="38" y="24" width="60" height="108" fill="#d4ecf4"/>
+  <rect x="102" y="24" width="60" height="108" fill="#c2e2ee"/>
+  <path d="M24 134 H176" fill="none" stroke="#6b4220" stroke-width="5"/>
+  <path d="M100 12 V144" fill="none" stroke="#6b4220" stroke-width="5"/>
+  <!-- glass highlights -->
+  <path d="M46 122 L82 34" fill="none" stroke="#ffffff" stroke-width="9" stroke-linecap="round" opacity=".65"/>
+  <path d="M112 118 L142 48" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round" opacity=".4"/>
+  <path d="M38 132 H160" fill="none" stroke="#a9d3e2" stroke-width="4" opacity=".8"/>
+
+  <!-- sill -->
+  <rect x="12" y="144" width="176" height="18" rx="4" fill="#b07a45" stroke="#6b4220" stroke-width="6"/>
+  <path d="M24 152 H88" fill="none" stroke="#d0a06a" stroke-width="4" stroke-linecap="round" opacity=".85"/>
+
+  <!-- left pot and plant -->
+  <path d="M62 110 C62 110 61 140 65 143 H99 C103 140 102 110 102 110 Z" fill="#c96b3f" stroke="#7d3a20" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M59 104 H105 V114 H59 Z" fill="#a8542f" stroke="#7d3a20" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M82 104 V80" fill="none" stroke="#2f5d1f" stroke-width="5" stroke-linecap="round"/>
+  <path d="M82 92 C71 92 65 86 65 76 C76 76 82 82 82 92 Z" fill="#62a63a" stroke="#2f5d1f" stroke-width="4.5" stroke-linejoin="round"/>
+  <path d="M82 86 C93 86 99 80 99 70 C88 70 82 76 82 86 Z" fill="#8cc152" stroke="#2f5d1f" stroke-width="4.5" stroke-linejoin="round"/>
+  <path d="M70 120 Q74 128 72 136" fill="none" stroke="#e8a27f" stroke-width="4" stroke-linecap="round" opacity=".8"/>
+
+  <!-- right pot and plant -->
+  <path d="M120 118 C120 118 119 140 123 143 H151 C155 140 154 118 154 118 Z" fill="#c96b3f" stroke="#7d3a20" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M117 112 H157 V122 H117 Z" fill="#a8542f" stroke="#7d3a20" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M137 112 V94" fill="none" stroke="#2f5d1f" stroke-width="5" stroke-linecap="round"/>
+  <path d="M137 104 C128 104 123 99 123 91 C132 91 137 96 137 104 Z" fill="#8cc152" stroke="#2f5d1f" stroke-width="4.5" stroke-linejoin="round"/>
+  <path d="M137 100 C146 100 151 95 151 87 C142 87 137 92 137 100 Z" fill="#62a63a" stroke="#2f5d1f" stroke-width="4.5" stroke-linejoin="round"/>
+
+  <!-- sill highlight -->
+  <path d="M22 156 H64" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" opacity=".45"/>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- wooden box -->
+  <rect x="34" y="134" width="132" height="44" rx="3" fill="#b07a45" stroke="#6b4220" stroke-width="6"/>
+  <path d="M38 152 H162" fill="none" stroke="#8a5a2b" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M48 164 Q64 160 80 164 M120 168 Q136 164 152 168" fill="none" stroke="#8a5a2b" stroke-width="3" stroke-linecap="round" opacity=".8"/>
+  <path d="M162 134 H166 V178 H162 Z" fill="#8a5a2b" opacity=".55"/>
+
+  <!-- plants inside, faintly visible through the glass -->
+  <path d="M74 136 V118" fill="none" stroke="#2f5d1f" stroke-width="5" stroke-linecap="round"/>
+  <path d="M74 128 C63 128 58 121 58 112 C69 112 74 119 74 128 Z" fill="#62a63a" stroke="#2f5d1f" stroke-width="4.5" stroke-linejoin="round"/>
+  <path d="M74 124 C85 124 90 117 90 108 C79 108 74 115 74 124 Z" fill="#8cc152" stroke="#2f5d1f" stroke-width="4.5" stroke-linejoin="round"/>
+  <path d="M128 136 V124" fill="none" stroke="#2f5d1f" stroke-width="4.5" stroke-linecap="round"/>
+  <path d="M128 130 C120 130 116 125 116 118 C124 118 128 123 128 130 Z" fill="#8cc152" stroke="#2f5d1f" stroke-width="4" stroke-linejoin="round"/>
+
+  <!-- slanted glass lid, hinged at the back -->
+  <path d="M22 136 L178 136 L160 96 L40 96 Z" fill="#d0a06a" stroke="#6b4220" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M38 131 L162 131 L147 104 L53 104 Z" fill="#cfe8dd" fill-opacity=".9" stroke="#4f7d6d" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M100 131 V104 M68 131 L71 104 M132 131 L129 104" fill="none" stroke="#4f7d6d" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M46 124 L58 106" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" opacity=".7"/>
+  <path d="M118 124 L134 106" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" opacity=".4"/>
+
+  <!-- handle -->
+  <path d="M92 136 H108" fill="none" stroke="#3b2a1f" stroke-width="5" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- plastic arch -->
+  <path d="M18 170 Q18 58 100 38 Q182 58 182 170 Z" fill="#e2f1e8" stroke="#4f7d6d" stroke-width="6" stroke-linejoin="round"/>
+
+  <!-- hoop ribs -->
+  <g fill="none" stroke="#93bda9" stroke-width="4" stroke-linecap="round">
+    <path d="M44 170 Q44 76 100 50 Q156 76 156 170"/>
+    <path d="M70 170 Q70 92 100 68 Q130 92 130 170"/>
+    <path d="M100 44 V170"/>
+  </g>
+
+  <!-- plant inside -->
+  <path d="M54 170 V140" fill="none" stroke="#2f5d1f" stroke-width="6" stroke-linecap="round"/>
+  <path d="M54 152 C42 152 36 145 36 134 C48 134 54 141 54 152 Z" fill="#62a63a" stroke="#2f5d1f" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M54 146 C66 146 72 139 72 128 C60 128 54 135 54 146 Z" fill="#8cc152" stroke="#2f5d1f" stroke-width="5" stroke-linejoin="round"/>
+
+  <!-- door -->
+  <rect x="80" y="112" width="40" height="58" rx="3" fill="#c5e4d5" stroke="#4f7d6d" stroke-width="5"/>
+  <path d="M100 118 V164" fill="none" stroke="#4f7d6d" stroke-width="4" stroke-linecap="round"/>
+  <path d="M94 140 H106" fill="none" stroke="#4f7d6d" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- highlights -->
+  <path d="M34 150 Q34 92 74 58" fill="none" stroke="#ffffff" stroke-width="9" stroke-linecap="round" opacity=".8"/>
+  <path d="M166 154 Q166 104 136 74" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" opacity=".4"/>
+
+  <!-- base -->
+  <path d="M12 170 H188" fill="none" stroke="#3b2a1f" stroke-width="6" stroke-linecap="round"/>
+  <path d="M22 178 H178" fill="none" stroke="#93bda9" stroke-width="4" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- tent body -->
+  <rect x="24" y="42" width="152" height="134" rx="8" fill="#dbe4e7" stroke="#3b4a44" stroke-width="6"/>
+  <path d="M30 50 H170" fill="none" stroke="#b3c0c4" stroke-width="4" stroke-linecap="round"/>
+  <path d="M32 168 H168" fill="none" stroke="#b3c0c4" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- open side: dark interior with a plant -->
+  <rect x="112" y="62" width="54" height="106" rx="3" fill="#2f3a33"/>
+  <path d="M136 168 V142" fill="none" stroke="#2f5d1f" stroke-width="6" stroke-linecap="round"/>
+  <path d="M136 154 C124 154 118 147 118 136 C130 136 136 143 136 154 Z" fill="#62a63a" stroke="#2f5d1f" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M136 148 C148 148 154 141 154 130 C142 130 136 137 136 148 Z" fill="#8cc152" stroke="#2f5d1f" stroke-width="5" stroke-linejoin="round"/>
+
+  <!-- closed door panel -->
+  <rect x="52" y="62" width="60" height="106" rx="3" fill="#c9d4d8" stroke="#3b4a44" stroke-width="5"/>
+  <path d="M52 62 Q82 92 52 122" fill="none" stroke="#a9b6bb" stroke-width="4" stroke-linecap="round"/>
+  <!-- zipper -->
+  <path d="M82 68 V162" fill="none" stroke="#3b4a44" stroke-width="3.5" stroke-dasharray="5 5"/>
+  <circle cx="82" cy="100" r="5" fill="#8f979d" stroke="#3b4a44" stroke-width="3"/>
+
+  <!-- roof duct -->
+  <circle cx="146" cy="52" r="12" fill="#c9d4d8" stroke="#3b4a44" stroke-width="5"/>
+  <circle cx="146" cy="52" r="4" fill="#3b4a44"/>
+  <path d="M146 40 V30 H170 V38" fill="none" stroke="#8f979d" stroke-width="6" stroke-linecap="round"/>
+
+  <!-- reflection -->
+  <path d="M38 152 L58 72" fill="none" stroke="#ffffff" stroke-width="7" stroke-linecap="round" opacity=".55"/>
+
+  <!-- floor bar -->
+  <path d="M18 176 H182" fill="none" stroke="#3b4a44" stroke-width="6" stroke-linecap="round"/>
+</svg>

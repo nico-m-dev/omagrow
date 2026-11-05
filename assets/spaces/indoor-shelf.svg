@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- uprights -->
+  <rect x="34" y="46" width="12" height="132" rx="3" fill="#b07a45" stroke="#6b4220" stroke-width="5"/>
+  <rect x="154" y="46" width="12" height="132" rx="3" fill="#b07a45" stroke="#6b4220" stroke-width="5"/>
+
+  <!-- grow light -->
+  <rect x="60" y="28" width="80" height="14" rx="4" fill="#d9dde0" stroke="#4a5258" stroke-width="5"/>
+  <path d="M68 42 H132" fill="none" stroke="#f2c14e" stroke-width="6" stroke-linecap="round"/>
+  <path d="M100 28 V20" fill="none" stroke="#4a5258" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- top shelf -->
+  <rect x="26" y="86" width="148" height="12" rx="3" fill="#d0a06a" stroke="#6b4220" stroke-width="5"/>
+  <path d="M34 96 H166" fill="none" stroke="#8a5a2b" stroke-width="3" stroke-linecap="round" opacity=".7"/>
+
+  <!-- lower shelf -->
+  <rect x="26" y="142" width="148" height="12" rx="3" fill="#d0a06a" stroke="#6b4220" stroke-width="5"/>
+  <path d="M34 152 H166" fill="none" stroke="#8a5a2b" stroke-width="3" stroke-linecap="round" opacity=".7"/>
+
+  <!-- top left pot -->
+  <path d="M54 66 C54 66 53 84 57 86 H85 C89 84 88 66 88 66 Z" fill="#c96b3f" stroke="#7d3a20" stroke-width="4.5" stroke-linejoin="round"/>
+  <path d="M51 61 H91 V69 H51 Z" fill="#a8542f" stroke="#7d3a20" stroke-width="4.5" stroke-linejoin="round"/>
+  <path d="M70 61 V50" fill="none" stroke="#2f5d1f" stroke-width="4.5" stroke-linecap="round"/>
+  <path d="M70 56 C62 56 58 51 58 44 C66 44 70 49 70 56 Z" fill="#62a63a" stroke="#2f5d1f" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M70 54 C78 54 82 49 82 42 C74 42 70 47 70 54 Z" fill="#8cc152" stroke="#2f5d1f" stroke-width="4" stroke-linejoin="round"/>
+
+  <!-- top right pot -->
+  <path d="M116 68 C116 68 115 84 119 86 H143 C147 84 146 68 146 68 Z" fill="#c96b3f" stroke="#7d3a20" stroke-width="4.5" stroke-linejoin="round"/>
+  <path d="M113 63 H149 V71 H113 Z" fill="#a8542f" stroke="#7d3a20" stroke-width="4.5" stroke-linejoin="round"/>
+  <path d="M130 63 V52" fill="none" stroke="#2f5d1f" stroke-width="4.5" stroke-linecap="round"/>
+  <path d="M130 58 C123 58 119 54 119 48 C126 48 130 52 130 58 Z" fill="#8cc152" stroke="#2f5d1f" stroke-width="4" stroke-linejoin="round"/>
+
+  <!-- lower pot -->
+  <path d="M84 118 C84 118 83 140 87 142 H113 C117 140 116 118 116 118 Z" fill="#c96b3f" stroke="#7d3a20" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M81 112 H119 V121 H81 Z" fill="#a8542f" stroke="#7d3a20" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M100 112 V88" fill="none" stroke="#2f5d1f" stroke-width="5" stroke-linecap="round"/>
+  <path d="M100 100 C88 100 82 93 82 83 C94 83 100 90 100 100 Z" fill="#62a63a" stroke="#2f5d1f" stroke-width="4.5" stroke-linejoin="round"/>
+  <path d="M100 94 C112 94 118 87 118 77 C106 77 100 84 100 94 Z" fill="#8cc152" stroke="#2f5d1f" stroke-width="4.5" stroke-linejoin="round"/>
+
+  <path d="M62 72 Q65 78 64 83" fill="none" stroke="#e8a27f" stroke-width="3" stroke-linecap="round" opacity=".85"/>
+  <path d="M92 124 Q95 132 94 138" fill="none" stroke="#e8a27f" stroke-width="3.5" stroke-linecap="round" opacity=".85"/>
+</svg>

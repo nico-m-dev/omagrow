@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- grass -->
+  <path d="M10 168 Q100 156 190 168 V184 Q100 194 10 184 Z" fill="#6aa84f" stroke="#2f5d1f" stroke-width="5"/>
+  <!-- trunk -->
+  <path d="M90 168 C90 142 86 128 86 110 H114 C114 128 110 142 110 168 Z" fill="#8a5a2b" stroke="#6b4220" stroke-width="5"/>
+  <path d="M100 118 L76 94 M100 118 L124 94" fill="none" stroke="#6b4220" stroke-width="6" stroke-linecap="round"/>
+
+  <!-- canopy -->
+  <path d="M100 26 C142 26 168 54 168 84 C168 108 150 122 132 116 C126 132 106 138 94 126 C80 138 58 132 54 116 C32 114 22 94 32 74 C42 52 68 26 100 26 Z" fill="#62a63a" stroke="#2f5d1f" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M46 106 C58 112 66 108 74 116 C82 124 94 122 100 130 C110 138 126 134 132 124" fill="none" stroke="#3f7d2a" stroke-width="4" stroke-linecap="round" opacity=".8"/>
+  <path d="M62 58 C74 46 90 40 104 40" fill="none" stroke="#8cc152" stroke-width="5" stroke-linecap="round"/>
+  <path d="M128 46 C142 54 150 66 152 80" fill="none" stroke="#8cc152" stroke-width="5" stroke-linecap="round" opacity=".8"/>
+
+  <!-- apples -->
+  <g stroke="#a83a2a" stroke-width="4">
+    <circle cx="76" cy="76" r="9" fill="#d94a3a"/>
+    <circle cx="122" cy="62" r="9" fill="#d94a3a"/>
+    <circle cx="138" cy="96" r="9" fill="#d94a3a"/>
+    <circle cx="96" cy="104" r="8" fill="#d94a3a"/>
+  </g>
+  <circle cx="73" cy="73" r="2.5" fill="#ffffff" opacity=".85"/>
+  <circle cx="119" cy="59" r="2.5" fill="#ffffff" opacity=".85"/>
+  <circle cx="135" cy="93" r="2.5" fill="#ffffff" opacity=".85"/>
+
+  <!-- fallen apple -->
+  <circle cx="150" cy="174" r="8" fill="#d94a3a" stroke="#a83a2a" stroke-width="4"/>
+  <circle cx="148" cy="172" r="2" fill="#ffffff" opacity=".85"/>
+
+  <!-- grass tufts -->
+  <path d="M24 168 Q28 158 34 154 M36 168 Q38 160 44 158 M166 170 Q162 160 156 158" fill="none" stroke="#2f5d1f" stroke-width="4" stroke-linecap="round"/>
+</svg>

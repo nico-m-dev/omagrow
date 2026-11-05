@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- reservoir -->
+  <path d="M22 118 H178 L172 172 H28 Z" fill="#e4eff2" stroke="#4f7d6d" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M24 118 H176 V128 H24 Z" fill="#c9dfe5" stroke="#4f7d6d" stroke-width="5"/>
+
+  <!-- water -->
+  <path d="M32 138 Q42 134 52 138 Q62 142 72 138 Q82 134 92 138 Q102 142 112 138 Q122 134 132 138 Q142 142 152 138 Q162 134 168 137 L166 164 H34 Z" fill="#4f9fbe" stroke="#2b6a85" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M42 148 Q52 144 62 148" fill="none" stroke="#8fcbe0" stroke-width="3.5" stroke-linecap="round" opacity=".85"/>
+  <circle cx="60" cy="156" r="3" fill="#cfeaf2" opacity=".9"/>
+  <circle cx="92" cy="152" r="2.5" fill="#cfeaf2" opacity=".9"/>
+  <circle cx="140" cy="158" r="3" fill="#cfeaf2" opacity=".9"/>
+
+  <!-- net pots with plants -->
+  <g>
+    <path d="M48 106 H74 L70 128 H52 Z" fill="#f4f7f7" stroke="#4f7d6d" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M56 106 V88" fill="none" stroke="#2f5d1f" stroke-width="4.5" stroke-linecap="round"/>
+    <path d="M56 98 C48 98 44 93 44 86 C52 86 56 91 56 98 Z" fill="#62a63a" stroke="#2f5d1f" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M56 96 C64 96 68 91 68 84 C60 84 56 89 56 96 Z" fill="#8cc152" stroke="#2f5d1f" stroke-width="4" stroke-linejoin="round"/>
+  </g>
+  <g>
+    <path d="M88 106 H114 L110 128 H92 Z" fill="#f4f7f7" stroke="#4f7d6d" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M101 106 V78" fill="none" stroke="#2f5d1f" stroke-width="4.5" stroke-linecap="round"/>
+    <path d="M101 92 C91 92 86 86 86 77 C96 77 101 83 101 92 Z" fill="#8cc152" stroke="#2f5d1f" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M101 88 C111 88 116 82 116 73 C106 73 101 79 101 88 Z" fill="#62a63a" stroke="#2f5d1f" stroke-width="4" stroke-linejoin="round"/>
+  </g>
+  <g>
+    <path d="M128 106 H154 L150 128 H132 Z" fill="#f4f7f7" stroke="#4f7d6d" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M141 106 V90" fill="none" stroke="#2f5d1f" stroke-width="4.5" stroke-linecap="round"/>
+    <path d="M141 100 C133 100 129 95 129 88 C137 88 141 93 141 100 Z" fill="#62a63a" stroke="#2f5d1f" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M141 98 C149 98 153 93 153 86 C145 86 141 91 141 98 Z" fill="#8cc152" stroke="#2f5d1f" stroke-width="4" stroke-linejoin="round"/>
+  </g>
+
+  <!-- water-level window -->
+  <path d="M154 138 H168 V158 H154 Z" fill="#8fcbe0" stroke="#2b6a85" stroke-width="3.5" stroke-linejoin="round"/>
+  <path d="M158 142 V154" fill="none" stroke="#e4f4f8" stroke-width="3" stroke-linecap="round" opacity=".9"/>
+
+  <!-- tub highlight -->
+  <path d="M36 116 H96" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" opacity=".8"/>
+</svg>

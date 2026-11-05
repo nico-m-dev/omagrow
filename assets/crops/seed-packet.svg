@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <style type="text/css">.edge{fill:#6d4f2d}.paper{fill:#f4e6c3}.shade{fill:#e2cfa4}.flap{fill:#d8bd8a}.crease{fill:#b99a66}.label{fill:#3c6a39}.label-in{fill:#4c7f46}.leaf{fill:#8ecb61}.leaf-dark{fill:#6fae4c}.seed{fill:#8a5a2b}.seed-light{fill:#c99a62}.ink{fill:#4a3a22}.line{fill:#dcc79c}</style>
+  <g transform="translate(100 0) scale(1.16 1) translate(-100 0)">
+    <rect x="38" y="12" width="124" height="178" rx="12" class="edge"/>
+    <rect x="43" y="17" width="114" height="168" rx="9" class="paper"/>
+    <path d="M133 17h15a9 9 0 0 1 9 9v150a9 9 0 0 1-9 9h-15z" class="shade"/>
+    <path d="M43 26a9 9 0 0 1 9-9h96a9 9 0 0 1 9 9v32H43z" class="flap"/>
+    <path d="M43 52h114v6H43z" class="crease"/>
+    <rect x="54" y="86" width="92" height="68" rx="6" class="label"/>
+    <rect x="58" y="90" width="84" height="60" rx="4" class="label-in"/>
+    <path d="M100 134c0-13 0-20 0-28" fill="none" stroke="#e9f2cf" stroke-width="5" stroke-linecap="round"/>
+    <path d="M100 111c-5-10-14-16-26-16 0 13 9 21 22 21z" class="leaf"/>
+    <path d="M100 103c3-9 12-15 24-16 0 11-8 20-20 21z" class="leaf-dark"/>
+    <path d="M92 136c0-4 4-7 8-7s8 3 8 7-4 7-8 7-8-3-8-7z" class="seed"/>
+    <ellipse cx="97" cy="133" rx="2.2" ry="1.3" class="seed-light"/>
+    <rect x="70" y="164" width="60" height="3" rx="1.5" class="line"/>
+    <rect x="80" y="171" width="40" height="3" rx="1.5" class="line"/>
+  </g>
+  <text x="100" y="78" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="700" letter-spacing="2.5" class="ink">SEEDS</text>
+</svg>

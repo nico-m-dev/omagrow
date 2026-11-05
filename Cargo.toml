@@ -1,0 +1,18 @@
+[package]
+name = "omagrow"
+version = "0.1.0"
+edition = "2024"
+description = "Plant, garden and grow journal for Omarchy"
+license = "MIT"
+publish = false
+
+[dependencies]
+gtk = { package = "gtk4", version = "0.11", features = ["v4_12"] }
+libadwaita = { version = "0.9", features = ["v1_4", "v1_5"] }
+gdk-pixbuf = "0.22"
+rusqlite = "0.41"
+serde_json = "1"
+ureq = "3.5"
+
+[build-dependencies]
+glib-build-tools = "0.22"

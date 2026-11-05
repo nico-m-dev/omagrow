@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- railing -->
+  <rect x="10" y="38" width="180" height="12" rx="5" fill="#8f979d" stroke="#4a5258" stroke-width="5"/>
+  <g fill="#8f979d" stroke="#4a5258" stroke-width="4">
+    <rect x="22" y="52" width="8" height="92" rx="3"/>
+    <rect x="48" y="52" width="8" height="92" rx="3"/>
+    <rect x="74" y="52" width="8" height="92" rx="3"/>
+    <rect x="100" y="52" width="8" height="92" rx="3"/>
+    <rect x="126" y="52" width="8" height="92" rx="3"/>
+    <rect x="152" y="52" width="8" height="92" rx="3"/>
+    <rect x="174" y="52" width="8" height="92" rx="3"/>
+  </g>
+  <rect x="10" y="94" width="180" height="7" rx="3" fill="#8f979d" stroke="#4a5258" stroke-width="3"/>
+
+  <!-- floor slab -->
+  <rect x="4" y="142" width="192" height="26" rx="4" fill="#c4beb4" stroke="#6f6a62" stroke-width="6"/>
+  <path d="M16 150 H184" fill="none" stroke="#e0dcd4" stroke-width="3.5" stroke-linecap="round" opacity=".9"/>
+  <path d="M70 168 V152 M134 168 V152" fill="none" stroke="#8f8a82" stroke-width="3" stroke-linecap="round" opacity=".7"/>
+
+  <!-- left pot -->
+  <path d="M52 112 C52 112 51 138 55 141 H91 C95 138 94 112 94 112 Z" fill="#c96b3f" stroke="#7d3a20" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M49 106 H97 V116 H49 Z" fill="#a8542f" stroke="#7d3a20" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M72 106 V78" fill="none" stroke="#2f5d1f" stroke-width="5" stroke-linecap="round"/>
+  <path d="M72 92 C60 92 54 85 54 75 C66 75 72 82 72 92 Z" fill="#62a63a" stroke="#2f5d1f" stroke-width="4.5" stroke-linejoin="round"/>
+  <path d="M72 86 C84 86 90 79 90 69 C78 69 72 76 72 86 Z" fill="#8cc152" stroke="#2f5d1f" stroke-width="4.5" stroke-linejoin="round"/>
+
+  <!-- right pot -->
+  <path d="M124 122 C124 122 123 138 127 141 H151 C155 138 154 122 154 122 Z" fill="#c96b3f" stroke="#7d3a20" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M121 116 H157 V126 H121 Z" fill="#a8542f" stroke="#7d3a20" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M139 116 V100" fill="none" stroke="#2f5d1f" stroke-width="5" stroke-linecap="round"/>
+  <path d="M139 108 C130 108 125 103 125 95 C134 95 139 100 139 108 Z" fill="#8cc152" stroke="#2f5d1f" stroke-width="4.5" stroke-linejoin="round"/>
+
+  <!-- pot highlights -->
+  <path d="M60 120 Q63 128 62 136" fill="none" stroke="#e8a27f" stroke-width="3.5" stroke-linecap="round" opacity=".85"/>
+  <path d="M130 128 Q132 133 131 137" fill="none" stroke="#e8a27f" stroke-width="3" stroke-linecap="round" opacity=".75"/>
+</svg>

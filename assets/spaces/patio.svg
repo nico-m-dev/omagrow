@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- paving -->
+  <path d="M20 122 H180 L192 180 H8 Z" fill="#c4beb4" stroke="#6f6a62" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M20 150 H180 M8 164 H192" fill="none" stroke="#8f8a82" stroke-width="4" stroke-linecap="round"/>
+  <path d="M62 122 V150 M138 122 V150 M42 150 L30 180 M158 150 L170 180 M100 150 V180" fill="none" stroke="#8f8a82" stroke-width="4" stroke-linecap="round"/>
+  <path d="M28 128 H64" fill="none" stroke="#e0dcd4" stroke-width="4" stroke-linecap="round" opacity=".9"/>
+
+  <!-- bench -->
+  <rect x="118" y="106" width="54" height="10" rx="3" fill="#b07a45" stroke="#6b4220" stroke-width="4"/>
+  <rect x="112" y="128" width="66" height="11" rx="3" fill="#d0a06a" stroke="#6b4220" stroke-width="4"/>
+  <path d="M118 139 V156 M172 139 V156 M124 112 V128 M166 112 V128" fill="none" stroke="#6b4220" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- large pot with shrub -->
+  <path d="M28 108 C28 108 27 132 31 136 H73 C77 132 76 108 76 108 Z" fill="#c96b3f" stroke="#7d3a20" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M25 102 H79 V112 H25 Z" fill="#a8542f" stroke="#7d3a20" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M52 102 V76" fill="none" stroke="#2f5d1f" stroke-width="5" stroke-linecap="round"/>
+  <path d="M52 90 C40 90 34 83 34 73 C46 73 52 80 52 90 Z" fill="#62a63a" stroke="#2f5d1f" stroke-width="4.5" stroke-linejoin="round"/>
+  <path d="M52 84 C64 84 70 77 70 67 C58 67 52 74 52 84 Z" fill="#8cc152" stroke="#2f5d1f" stroke-width="4.5" stroke-linejoin="round"/>
+  <path d="M42 56 C48 62 50 68 50 76" fill="none" stroke="#2f5d1f" stroke-width="3.5" stroke-linecap="round" opacity=".8"/>
+
+  <!-- small pot on the paving -->
+  <path d="M88 126 C88 126 87 142 91 145 H111 C115 142 114 126 114 126 Z" fill="#c96b3f" stroke="#7d3a20" stroke-width="4.5" stroke-linejoin="round"/>
+  <path d="M85 120 H117 V129 H85 Z" fill="#a8542f" stroke="#7d3a20" stroke-width="4.5" stroke-linejoin="round"/>
+  <path d="M100 120 V106" fill="none" stroke="#2f5d1f" stroke-width="4.5" stroke-linecap="round"/>
+  <path d="M100 112 C92 112 88 107 88 100 C96 100 100 105 100 112 Z" fill="#8cc152" stroke="#2f5d1f" stroke-width="4" stroke-linejoin="round"/>
+
+  <path d="M36 114 Q39 124 38 131" fill="none" stroke="#e8a27f" stroke-width="3.5" stroke-linecap="round" opacity=".85"/>
+</svg>
