@@ -1,1 +1,10 @@
+# Build output
 /target
+
+# A local database, should the app be pointed at the repository
+*.db
+*.db-wal
+*.db-shm
+
+# The temporary work checklist from AGENTS.md
+/docs/TASKS.md
